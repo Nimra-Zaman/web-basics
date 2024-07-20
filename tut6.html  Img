@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>links and images</title>
+</head>
+<body>
+    <a href="htpps://google.com" target="_blank">Go to google</a><br>
+    <a href="htpps://facebook.com" target="_blank">Go to facebook</a><br>
+    <a href="htpps://twitter.com" target="_blank">Go to twitter</a><br>
+    <a href="htpps://linkedin.com" target="_blank">Go to linkedin</a><br>
+    <a href="tut5.html" target="_blank">tut5.html</a>
+
+   <!--image is not present hence alt text is show--> 
+    <img src="nimra.jpg" alt="Error loading image">
+    <img src="https://wallpapers.com/images/featured-full/legend-of-zelda-background-g8iue6vix7rsijk2.jpg" alt="remote image"><br>
+
+   
+    
+</body>
+</html>
